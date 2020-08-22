@@ -10,7 +10,7 @@
 -Thymeleaf<br>
 -JavaScript (Jquery, Ajax)<br>
 <br>
-👯 그 외 학원에서 배운것들<br>
+👯 그 외 학원 배운것들<br>
 -JAVA<br>
 -Spring<br>
 -JavaScript (Jquery, Ajax)<br>
