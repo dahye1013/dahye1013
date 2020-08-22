@@ -1,27 +1,27 @@
-😄 ME < 5개월차 배우고 있는 웹개발 취준생
-   현재 파이널 프로젝트 (What's in my cart?) 만드는 중
-
+😄 ME < 5개월차 배우고 있는 웹개발 취준생<br>
+   현재 파이널 프로젝트 (What's in my cart?) 만드는 중<br>
+<br>
 <br>
 🔭 현재 웹프로젝트를 만들며 사용하고 있는 것들!
--JAVA
--Spring boot
--MySQL
--Thymeleaf
--JavaScript (Jquery, Ajax)
-
-👯 그 외 학원에서 배운것들
--JAVA
--Spring
--JavaScript (Jquery, Ajax)
--Oracle
--HTML
-
-🌱 혼자 공부하는 중...
-- React
-
-⚡ Fun fact 
-- 我专业是中文系，可是我在学习开发！
-  
+-JAVA<br>
+-Spring boot<br>
+-MySQL<br>
+-Thymeleaf<br>
+-JavaScript (Jquery, Ajax)<br>
+<br>
+👯 그 외 학원에서 배운것들<br>
+-JAVA<br>
+-Spring<br>
+-JavaScript (Jquery, Ajax)<br>
+-Oracle<br>
+-HTML<br>
+<br>
+🌱 혼자 공부하는 중...<br>
+- React<br>
+<br>
+⚡ Fun fact <br>
+- 我专业是中文系，可是我在学习开发！<br>
+  <br><br>
 
 
 <!--
