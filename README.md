@@ -18,10 +18,10 @@
 -HTML<br>
 <br>
 🌱 혼자 공부하는 중...<br>
-- React<br>
+-React<br>
 <br>
 ⚡ Fun fact <br>
-- 我专业是中文系，可是我在学习开发！<br>
+-我专业是中文系，可是我在学习开发！<br>
   <br><br>
 
 
