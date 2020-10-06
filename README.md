@@ -17,7 +17,7 @@
 -HTML<br>
 <br>
 🌱 혼자 공부하는 중...<br>
--React<br>
+-es5, es6 문법<br>
 <br>
 ⚡ Fun fact <br>
 -我专业是中文，可是我在学习开发！<br>
