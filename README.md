@@ -1,27 +1,22 @@
 😄 ME!<br>
-5개월차 배우고 있는 웹개발 취준생<br>
-<br>
-<br>
-🔭 현재 웹프로젝트를 만들며 사용하고 있는 것들!<br>
--JAVA<br>
--Spring boot<br>
--MySQL<br>
--Thymeleaf<br>
--JavaScript (Jquery, Ajax)<br>
-<br>
-👯학원 배운것들<br>
--JAVA<br>
--Spring<br>
--JavaScript (Jquery, Ajax)<br>
--Oracle<br>
--HTML<br>
-<br>
-🌱 혼자 공부하는 중...<br>
--es5, es6 문법<br>
-<br>
-⚡ Fun fact <br>
--我专业是中文，可是我在学习开发！<br>
-  <br><br>
+- 6개월차 공부중인 있는 웹개발 취준생
+
+✨ I CAN DO!
+-HTML
+-CSS
+-JAVA
+-Spring & Spring boot
+-Thymeleaf
+-JavaScript (Jquery, Ajax)
+-Oracle
+
+🌱 혼자 공부하는 중...
+-es5, es6 문법
+-MySQL
+
+⚡ Fun fact 
+-我专业是中文，可是我在学习开发！
+
 
 
 <!--
