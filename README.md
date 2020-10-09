@@ -1,22 +1,23 @@
 😄 ME!<br>
-- 6개월차 공부중인 있는 웹개발 취준생
-
-✨ I CAN DO!
--HTML
--CSS
--JAVA
--Spring & Spring boot
--Thymeleaf
--JavaScript (Jquery, Ajax)
--Oracle
-
-🌱 혼자 공부하는 중...
--es5, es6 문법
--MySQL
-
-⚡ Fun fact 
--我专业是中文，可是我在学习开发！
-
+- 6개월차 공부중인 있는 웹개발 취준생<br>
+<br>
+✨ I CAN DO!<br>
+-HTML<br>
+-CSS<br>
+-JAVA<br>
+-Spring & Spring boot<br>
+-Thymeleaf<br>
+-JavaScript (Jquery, Ajax)<br>
+-Oracle<br>
+<br>
+🌱 혼자 공부하는 중...<br>
+-es5, es6 문법<br>
+-MySQL<br>
+-프로그래머스 1단계 푸는중
+<br>
+⚡ Fun fact <br>
+-我专业是中文，可是我在学习开发！<br>
+<br><br><br>
 
 
 <!--
