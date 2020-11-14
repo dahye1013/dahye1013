@@ -1,5 +1,5 @@
 😄 ME!<br>
-- 공부중인 있는 웹개발 취준생<br>
+- 항상 공부하고 있는 웹개발자! 재직중입니당<br>
 <br>
 ✨ I CAN DO!<br>
 -HTML<br>
@@ -14,6 +14,7 @@
 -es5, es6 문법<br>
 -MySQL<br>
 -프로그래머스 1단계 <br>
+- vue.js 
 <br>
 ⚡ Fun fact <br>
 -我专业是中文，可是我在学习开发！<br>
