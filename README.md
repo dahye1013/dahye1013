@@ -2,18 +2,10 @@
 - 항상 공부하고 있는 웹개발자! 재직중입니당<br>
 <br>
 ✨ I CAN DO!<br>
--HTML<br>
--CSS<br>
--JAVA<br>
 -Spring & Spring boot<br>
--Thymeleaf<br>
--JavaScript (Jquery, Ajax)<br>
--Oracle<br>
+-JavaScript<br>
 <br>
-🌱 혼자 공부하는 중...<br>
--es5, es6 문법<br>
--MySQL<br>
--프로그래머스 1단계 <br>
+🌱 공부하는 중...<br>
 - vue.js 
 <br>
 ⚡ Fun fact <br>
