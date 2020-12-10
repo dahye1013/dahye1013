@@ -1,5 +1,6 @@
 😄 ME!<br>
-- 항상 공부하고 있는 웹개발자! 재직중입니당<br>
+- 항상 공부하고 있는 웹개발자! <br>
+- 프론트엔드 지망생
 <br>
 ✨ I CAN DO!<br>
 -Spring & Spring boot<br>
@@ -8,9 +9,7 @@
 🌱 공부하는 중...<br>
 - vue.js 
 <br>
-⚡ Fun fact <br>
--我专业是中文，可是我在学习开发！<br>
-<br><br><br>
+
 
 
 <!--
@@ -26,4 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+✨⚡
 -->
