@@ -1,6 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=333652&fontColor=FAD02C&height=300&section=header&text=dahye&fontSize=90&fontAlign=70&fontAlignY=30&rotate=20)
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
   
 
 ### <div align="center">I'm Dahye, Junior Front developer 👨‍💻 </div>  
