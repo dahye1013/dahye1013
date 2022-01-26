@@ -1,14 +1,7 @@
 
   
 
-### <div align="center">I'm Dahye, Junior Front developer 👨‍💻 </div>  
-  
-
-- 🔭 I’m currently working on Ishift   
-  
-
-- 🌱 I’m currently learning JavaScript and Node, and Refactorin   
-  
+### <div align="center">I'm Dahye, Junior Front-End developer 👨‍💻 </div>  
 
 <br/>  
 
