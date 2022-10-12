@@ -21,7 +21,6 @@ I love making things that interact with users. I started with Java. but, I found
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/dahye1013" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://economic-brace-cb7.notion.site/DH-s-TIL-22ffc0dbe6b54b9d9e79677970aa4c14" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
